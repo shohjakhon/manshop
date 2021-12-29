@@ -1155,4 +1155,7 @@ section .product-discount .before .center p {
     section .product-link .box {
         justify-content: center;
     }
+    section .product-discount .before .center p {
+        font-size: 13px;
+    }
 }
